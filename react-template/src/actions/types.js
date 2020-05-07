@@ -1,0 +1,6 @@
+// EXMAPLES
+
+// export const FETCH_PROJECT = 'FETCH_PROJECT';
+// export const FETCH_PROJECTS = 'FETCH_PROJECTS';
+// export const FETCH_CONTENT = 'FETCH_CONTENT';
+// export const FETCH_BOARD_MEMBERS = 'FETCH_BOARD_MEMBERS';
