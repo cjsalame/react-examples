@@ -12,11 +12,13 @@ import ColorContext from '../contexts/ColorContext';
 import LanguageSelector from './LanguageSelector';
 
 class App extends React.Component {
+  /* Initialize State object */
   state = {
     language: 'english'
   }
 
-  onLanguageChange = (language) => {
+  // Update Language
+  onLanguageChange = language => {
     this.setState({language});
   }
 
